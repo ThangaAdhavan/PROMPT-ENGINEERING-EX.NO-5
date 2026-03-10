@@ -77,7 +77,7 @@ Whether Narendra Modi is a *“good”* Prime Minister depends on perspective an
 * He has focused on **economic development**, infrastructure projects, and national security.
 * Many people credit his leadership with raising India’s global profile and initiating large welfare programs. ([Prime Minister of India][3])
 **Critics say:**
-* Some argue his policies have been **divisive** or have weakened certain democratic institutions.
+* Some argue his policies have been **divisive** or have weakened certain democratic institutions. 
 * Different groups have different views on his governance style and priorities, so opinions vary widely.
 # ANALYSIS OF PROMPTS:
 | Prompt No. | Prompt                                                                                                         | Accuracy                                         | Clarity                                   | Depth                                    | Quality of Response                 | Suitability for Academic Use                | Overall Effectiveness                          |
